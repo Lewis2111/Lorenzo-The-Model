@@ -1,0 +1,51 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: darkturquoise;
+    color: honeydew;
+}
+
+header {
+    background-color: darkturquoise;
+    position: relative;
+    padding: 1rem;
+}
+
+nav a {
+    color: beige;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+    position: absolute;
+    top: 0.7rem;
+    right: 1rem;
+}
+
+nav li {
+    display: inline;
+    margin-right: 0.5rem;
+}
+
+main {
+    margin: 1rem auto;
+    width: 80%;
+}
+
+main section {
+    margin-top: 6rem;
+    padding: 2rem;
+}
+
+.about img {
+    float: left;
+    margin-right: 3rem;
+    width: 400px;
+}
+
+.
